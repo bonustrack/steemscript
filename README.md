@@ -30,6 +30,9 @@ An Open JSON Standard for Trusted Workflows
 {
     "version": "0.0.1",
     "tags": ["steemit", "steem"],
+    "users": ["ned", "dan"],
+    "images": ["https://img.busy6.com/@ned"],
+    "videos": ["https://www.youtube.com/watch?v=rkQ7b-u8_6g", "https://www.youtube.com/watch?v=H399YZ0pv0o"],
     "status": "archived"
 }
 ```
