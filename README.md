@@ -4,6 +4,7 @@ An Open JSON Standard for Trusted Workflows
 ### Profile
 ```js
 var profile = {
+    version: '0.0.1'
     name: "Ned Scott",
     email: "ned@steem.io",
     birthday: "MM/DD/YYYY",
