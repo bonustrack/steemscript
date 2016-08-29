@@ -24,3 +24,11 @@ An Open JSON Standard for Trusted Workflows
     }
 }
 ```
+
+### Post/Comment json_metadata
+```json
+{
+    "version": "0.0.1",
+    "status": "archived"
+}
+```
