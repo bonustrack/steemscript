@@ -29,6 +29,7 @@ An Open JSON Standard for Trusted Workflows
 ```json
 {
     "version": "0.0.1",
+    "tags": ["steemit", "steem"]
     "status": "archived"
 }
 ```
