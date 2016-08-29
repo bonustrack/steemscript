@@ -4,7 +4,7 @@ An Open JSON Standard for Trusted Workflows
 ### User json_metadata
 ```json
 {
-    "version": "0.0.1"
+    "version": "0.0.1",
     "dns": {"records":[["@","CNAME","steem.io"]]}},
     "profile": {
         "name": "Ned Scott",
@@ -17,7 +17,7 @@ An Open JSON Standard for Trusted Workflows
         "location": "New York",
         "timezone": "-5",
         "locale": "en_US",
-        "languages": ["en"]
+        "languages": ["en"],
         "website": "https://steem.io/",
         "cover_image": "https://img.busy6.com/@ned/cover",
         "profile_image": "https://img.busy6.com/@ned"
