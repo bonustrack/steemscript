@@ -23,15 +23,16 @@ An Open JSON Standard for Trusted Workflows
         "profile_image": "https://img.busy6.com/@ned",
         "featured_post": "the-first-phase-of-the-steem-faq-and-wikee-consolidation-of-knowledge"
     },
+    // Encrypted
     "drafts": [{
-        parent_author: string,
-        parent_permlink: string,
-        author: string,
-        permlink: string,
-        title: string,
-        body: string,
-        json_metadata: string
-    }] // Encrypted array
+        "parent_author": "string",
+        "parent_permlink": "string",
+        "author": "string",
+        "permlink": "string",
+        "title": "string",
+        "body": "string",
+        "json_metadata": "string"
+    }]
 }
 ```
 
