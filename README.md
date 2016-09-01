@@ -21,6 +21,7 @@ An Open JSON Standard for Trusted Workflows
         "website": "https://steem.io/",
         "cover_image": "https://img.busy6.com/@ned/cover",
         "profile_image": "https://img.busy6.com/@ned"
+        "featured_post": "the-first-phase-of-the-steem-faq-and-wikee-consolidation-of-knowledge"
     }
 }
 ```
