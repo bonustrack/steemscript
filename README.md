@@ -1,7 +1,9 @@
 # Steem Script
 An Open JSON Standard for Trusted Workflows
 
-### User json_metadata
+https://gist.github.com/adcpm/021525e2304a55f31637e60db3c87532
+
+### Account json_metadata
 ```json
 {
     "version": "0.0.1",
@@ -23,20 +25,20 @@ An Open JSON Standard for Trusted Workflows
         "profile_image": "https://img.busy6.com/@ned",
         "featured_post": "the-first-phase-of-the-steem-faq-and-wikee-consolidation-of-knowledge"
     },
-    // Encrypted
+    /* Encrypted */
     "drafts": [{
-        "parent_author": "string",
-        "parent_permlink": "string",
-        "author": "string",
-        "permlink": "string",
-        "title": "string",
-        "body": "string",
-        "json_metadata": "string"
+        "parent_author": "",
+        "parent_permlink": "steemit",
+        "author": "ned",
+        "permlink": "hello-world",
+        "title": "Hello World",
+        "body": "Hello world.",
+        "json_metadata": "{\"tags\":[\"steemit\",\"steem\"]}"
     }]
 }
 ```
 
-### Post/Comment json_metadata
+### Comment json_metadata
 ```json
 {
     "version": "0.0.1",
