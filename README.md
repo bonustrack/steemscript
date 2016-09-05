@@ -24,17 +24,7 @@ https://gist.github.com/adcpm/021525e2304a55f31637e60db3c87532
         "cover_image": "https://img.busy6.com/@ned/cover",
         "profile_image": "https://img.busy6.com/@ned",
         "featured_post": "the-first-phase-of-the-steem-faq-and-wikee-consolidation-of-knowledge"
-    },
-    /* Encrypted */
-    "drafts": [{
-        "parent_author": "",
-        "parent_permlink": "steemit",
-        "author": "ned",
-        "permlink": "hello-world",
-        "title": "Hello World",
-        "body": "Hello world.",
-        "json_metadata": "{\"tags\":[\"steemit\",\"steem\"]}"
-    }]
+    }
 }
 ```
 
