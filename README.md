@@ -36,6 +36,7 @@ https://gist.github.com/adcpm/021525e2304a55f31637e60db3c87532
     "users": ["ned", "dan"],
     "images": ["https://img.busy6.com/@ned"],
     "videos": ["https://www.youtube.com/watch?v=rkQ7b-u8_6g", "https://www.youtube.com/watch?v=H399YZ0pv0o"],
-    "status": "archived"
+    "status": "archived",
+    "canonical": "http://blog.steem.io/steem/@ned/the-first-phase-of-the-steem-faq-and-wikee-consolidation-of-knowledge"
 }
 ```
