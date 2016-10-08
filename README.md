@@ -27,10 +27,10 @@ https://gist.github.com/adcpm/021525e2304a55f31637e60db3c87532
     },
     "apps": {
         "busy": {
-            permissions: ['vote', 'comment']
+            "permissions": ["vote", "comment"]
         }
         "steemstream": {
-            permissions: ['follow']
+            "permissions": ["follow"]
         }
     }
 }
