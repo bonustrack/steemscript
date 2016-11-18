@@ -22,31 +22,6 @@ https://gist.github.com/adcpm/021525e2304a55f31637e60db3c87532
         "cover_image": "https://img.busy6.com/@ned/cover",
         "profile_image": "https://img.busy6.com/@ned",
         "featured_post": "the-first-phase-of-the-steem-faq-and-wikee-consolidation-of-knowledge"
-    },
-    "apps": {
-        "busy": {
-            "permissions": ["vote", "comment"]
-        },
-        "steemstream": {
-            "permissions": ["follow"]
-        }
-    }
-}
-```
-
-### App Account json_metadata
-```json
-{
-    "app": {
-        "steemstats": {
-            "name": "SteemStats",
-            "author": "jesta",
-            "tagline": "Steem Account Statistics + Monitoring",
-            "description": "SteemStats is an application created to help you monitor your account activity on steemit.com, a social media platform based on the steem blockchain.",
-            "origins": ["https://steemstats.com/login", "http://www.steemstats.com/login"],
-            "redirect_urls": ["https://steemstats.com/dashboard", "https://www.steemstats.com/dashboard"],
-            "permissions": ["vote", "follow"]
-        },
     }
 }
 ```
