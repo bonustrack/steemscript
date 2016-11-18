@@ -6,7 +6,6 @@ https://gist.github.com/adcpm/021525e2304a55f31637e60db3c87532
 ### Account json_metadata
 ```json
 {
-    "version": "0.0.1",
     "dns": {"records":[["@","CNAME","steem.io"]]}},
     "profile": {
         "name": "Ned Scott",
@@ -29,7 +28,6 @@ https://gist.github.com/adcpm/021525e2304a55f31637e60db3c87532
 ### Comment json_metadata
 ```json
 {
-    "version": "0.0.1",
     "format": "html",
     "app_name": "steemit/1.23",
     "tags": ["steemit", "steem"],
