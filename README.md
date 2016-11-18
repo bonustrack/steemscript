@@ -31,6 +31,7 @@ https://gist.github.com/adcpm/021525e2304a55f31637e60db3c87532
 {
     "version": "0.0.1",
     "format": "html",
+    "app_name": "steemit/1.23",
     "tags": ["steemit", "steem"],
     "users": ["ned", "dan"],
     "images": ["https://img.busy6.com/@ned"],
