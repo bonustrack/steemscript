@@ -7,10 +7,10 @@ An Open JSON Standard for Trusted Workflows
     "profile": {
         "name": "Ned Scott",
         "about": "CEO and Co-founder at Steemit",
+        "location": "New York",
         "website": "https://steem.io/",
         "cover_image": "https://img.busy6.com/@ned/cover",
         "profile_image": "https://img.busy6.com/@ned",
-        "location": "New York",
         "gender": "male",
         "email": "ned@steem.io",
         "birthday": "12/31/1999",
@@ -35,7 +35,7 @@ An Open JSON Standard for Trusted Workflows
 ### Comment json_metadata
 ```json
 {
-    "app_name": "steemit/1.23",
+    "app": "steemit/1.23",
     "format": "html",
     "tags": ["steemit", "steem"],
     "users": ["ned", "dan"],
