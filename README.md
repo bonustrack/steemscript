@@ -14,8 +14,6 @@ https://gist.github.com/adcpm/021525e2304a55f31637e60db3c87532
         "birthday": "12/31/1999",
         "gender": "male",
         "about": "CEO and Co-founder at Steemit",
-        "first_name": "Ned",
-        "last_name": "Scott",
         "location": "New York",
         "timezone": "-5",
         "locale": "en_US",
