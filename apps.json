@@ -1,0 +1,70 @@
+{
+  "steemit": {
+    "name": "Steemit",
+    "homepage": "https://steemit.com",
+    "url_scheme": "https://steemit.com/{category}/@{username}/{permlink}"
+  },
+  "busy": {
+    "name": "Busy",
+    "homepage": "https://busy.org",
+    "url_scheme": "https://busy.org/@{username}/{permlink}"
+  },
+  "esteem": {
+    "name": "eSteem",
+    "homepage": "https://esteem.ws"
+  },
+  "chainbb": {
+    "name": "chainBB",
+    "homepage": "https://chainbb.com",
+    "url_scheme": "https://chainbb.com/{category}/@{username}/{permlink}"
+  },
+  "utopian": {
+    "name": "Utopian",
+    "homepage": "https://utopian.io",
+    "url_scheme": "https://utopian.io/{category}/@{username}/{permlink}"
+  },
+  "dtube": {
+    "name": "DTube",
+    "homepage": "https://d.tube",
+    "url_scheme": "https://d.tube/#!/v/{username}/{permlink}"
+  },
+  "dlive": {
+    "name": "DLive",
+    "homepage": "https://www.dlive.io",
+    "url_scheme": "https://www.dlive.io/#/livestream/{username}/{permlink}"
+  },
+  "dmania": {
+    "name": "dMania",
+    "homepage": "https://dmania.lol",
+    "url_scheme": "https://dmania.lol/post/{username}/{permlink}"
+  },
+  "dsound": {
+    "name": "DSound",
+    "homepage": "https://dsound.audio",
+    "url_scheme": "https://dsound.audio/#/@{username}/{permlink}"
+  },
+  "steepshot": {
+    "name": "Steepshot",
+    "homepage": "https://steepshot.io",
+    "url_scheme": "https://alpha.steepshot.io/post/{category}/@{username}/{permlink}"
+  },
+  "zappl": {
+    "name": "Zappl",
+    "homepage": "https://zappl.com",
+    "url_scheme": "https://zappl.com/zappl/a21/lochintar-bar-lal"
+  },
+  "steemkr": {
+    "name": "Steemkr",
+    "homepage": "https://steemkr.com",
+    "url_scheme": "https://steemkr.com/{category}/@{username}/{permlink}"
+  },
+  "steemjs": {
+    "name": "Steem.js",
+    "homepage": "https://github.com/steemit/steem-js"
+  },
+  "strimi": {
+    "name": "Strimi",
+    "homepage": "https://strimi.pl",
+    "url_scheme": "https://strimi.pl/{category}/@{username}/{permlink}"
+  }
+}
