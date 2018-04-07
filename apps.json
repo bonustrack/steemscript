@@ -13,6 +13,10 @@
     "name": "eSteem",
     "homepage": "https://esteem.ws"
   },
+  "bsteem": {
+    "name": "bSteem",
+    "homepage": "http://bsteem.com"
+  },
   "chainbb": {
     "name": "chainBB",
     "homepage": "https://chainbb.com",
