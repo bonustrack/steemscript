@@ -13,6 +13,11 @@
     "name": "eSteem",
     "homepage": "https://esteem.ws"
   },
+  "fundition": {
+    "name": "Fundition",
+    "homepage": "https://fundition.io",
+    "url_scheme": "https://fundition.io/#!/@{username}/{permlink}"
+  },
   "chainbb": {
     "name": "chainBB",
     "homepage": "https://chainbb.com",
