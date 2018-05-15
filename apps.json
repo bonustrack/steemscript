@@ -9,6 +9,10 @@
     "homepage": "https://busy.org",
     "url_scheme": "https://busy.org/@{username}/{permlink}"
   },
+  "bsteem": {
+    "name": "bSteem",
+    "homepage": "http://bsteem.com"
+  }
   "esteem": {
     "name": "eSteem",
     "homepage": "https://esteem.ws"
