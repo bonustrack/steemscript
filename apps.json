@@ -9,13 +9,18 @@
     "homepage": "https://busy.org",
     "url_scheme": "https://busy.org/@{username}/{permlink}"
   },
+  "bsteem": {
+    "name": "bSteem",
+    "homepage": "http://bsteem.com"
+  }
   "esteem": {
     "name": "eSteem",
     "homepage": "https://esteem.ws"
   },
-  "bsteem": {
-    "name": "bSteem",
-    "homepage": "http://bsteem.com"
+  "fundition": {
+    "name": "Fundition",
+    "homepage": "https://fundition.io",
+    "url_scheme": "https://fundition.io/#!/@{username}/{permlink}"
   },
   "chainbb": {
     "name": "chainBB",
