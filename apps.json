@@ -85,5 +85,9 @@
     "name": "Steemit.LOL",
     "homepage": "https://steemit.lol/",
     "url_scheme": "https://steemit.lol/{category}/@{username}/{permlink}"
+  },
+  "steemia": {
+    "name": "Steemia",
+    "homepage": "https://steemia.io/"
   }
 }
