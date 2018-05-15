@@ -80,6 +80,6 @@
   "steemia": {
     "name": "Steemia",
     "homepage": "https://steemia.io/",
-    "url_scheme": "https://steemit.com/{category}/@{username}/{permlink}"
+    "url_scheme": "https://steemia.io/{category}/@{username}/{permlink}"
   }
 }
