@@ -89,5 +89,10 @@
   "steemia": {
     "name": "Steemia",
     "homepage": "https://steemia.io/"
+  },
+  "hede": {
+    "name": "Hede.io",
+    "homepage": "https://hede.io/",
+    "url_scheme": "https://hede.io/hede-io/@{username}/{permlink}"
   }
 }
