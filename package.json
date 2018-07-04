@@ -1,6 +1,6 @@
 {
-  "name": "@busyorg/steemscript",
-  "version": "1.0.0",
+  "name": "steemscript",
+  "version": "1.0.1",
   "repository": {
     "url": "git://github.com/bonustrackco/steemscript.git",
     "type": "git"
