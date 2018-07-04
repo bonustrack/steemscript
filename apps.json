@@ -55,7 +55,8 @@
   "steepshot": {
     "name": "Steepshot",
     "homepage": "https://steepshot.io",
-    "url_scheme": "https://alpha.steepshot.io/post/{category}/@{username}/{permlink}"
+    "url_scheme":
+      "https://alpha.steepshot.io/post/{category}/@{username}/{permlink}"
   },
   "zappl": {
     "name": "Zappl",

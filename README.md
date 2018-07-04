@@ -1,7 +1,9 @@
 # Steem Script
+
 An Open JSON Standard for Trusted Workflows
 
 ### Account json_metadata
+
 ```json
 {
     "profile": {
@@ -22,26 +24,32 @@ An Open JSON Standard for Trusted Workflows
     "dns": {"records":[["@","CNAME","steem.io"]]}}
 }
 ```
+
 ## Account Guidelines
 
 ### Profile
+
 - `name`: max. length 20 chars.
 - `about`: max. length 160 chars.
 - `location`: max. length 30 chars.
 - `website`: valid `https://` URL with max. length 100 chars.
 - `profile_image`: image URL, preferably square-cropped with a minimum size of 230 x 230 pixels.
 
-
 ### Comment json_metadata
+
 ```json
 {
-    "app": "steemit/1.23",
-    "format": "html",
-    "tags": ["steemit", "steem"],
-    "users": ["ned", "dan"],
-    "images": ["https://img.busy6.com/@ned"],
-    "videos": ["https://www.youtube.com/watch?v=rkQ7b-u8_6g", "https://www.youtube.com/watch?v=H399YZ0pv0o"],
-    "status": "archived",
-    "canonical": "http://blog.steem.io/steem/@ned/the-first-phase-of-the-steem-faq-and-wikee-consolidation-of-knowledge"
+  "app": "steemit/1.23",
+  "format": "html",
+  "tags": ["steemit", "steem"],
+  "users": ["ned", "dan"],
+  "images": ["https://img.busy6.com/@ned"],
+  "videos": [
+    "https://www.youtube.com/watch?v=rkQ7b-u8_6g",
+    "https://www.youtube.com/watch?v=H399YZ0pv0o"
+  ],
+  "status": "archived",
+  "canonical":
+    "http://blog.steem.io/steem/@ned/the-first-phase-of-the-steem-faq-and-wikee-consolidation-of-knowledge"
 }
 ```
