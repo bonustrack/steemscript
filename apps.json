@@ -61,7 +61,7 @@
   "zappl": {
     "name": "Zappl",
     "homepage": "https://zappl.com",
-    "url_scheme": "https://zappl.com/zappl/a21/lochintar-bar-lal"
+    "url_scheme": "https://zappl.com/{category}/{username}/{permlink}"
   },
   "steemkr": {
     "name": "Steemkr",
