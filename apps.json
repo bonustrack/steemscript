@@ -83,7 +83,7 @@
   "steempeak": {
     "name": "SteemPeak",
     "homepage": "https://steempeak.com",
-    "url_scheme": "https://steemkr.com/{category}/@{username}/{permlink}"
+    "url_scheme": "https://steempeak.com/{category}/@{username}/{permlink}"
   },
   "steempress": {
     "name": "SteemPress",
