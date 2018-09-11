@@ -116,5 +116,9 @@
     "name": "Hede.io",
     "homepage": "https://hede.io",
     "url_scheme": "https://hede.io/hede-io/@{username}/{permlink}"
+  },
+  "actifit": {
+    "name": "Actifit",
+    "homepage": "https://actifit.io"
   }
 }
