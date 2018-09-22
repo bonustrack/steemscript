@@ -125,5 +125,10 @@
     "name": "Ulogs",
     "homepage": "https://ulogs.org",
     "url_scheme": "https://ulogs.org/@{username}/{permlink}"
+  },
+  "musing": {
+    "name": "Musing",
+    "homepage": "https://musing.io",
+    "url_scheme": "https://musing.io/q/{username}/{permlink}"
   }
 }
