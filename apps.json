@@ -131,4 +131,7 @@
     "homepage": "https://musing.io",
     "url_scheme": "https://musing.io/q/{username}/{permlink}"
   }
+  "guc-desktop": {
+    "name": "GUC"
+  }
 }
