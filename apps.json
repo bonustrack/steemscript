@@ -19,7 +19,8 @@
   },
   "esteem": {
     "name": "eSteem",
-    "homepage": "https://esteem.ws"
+    "homepage": "https://esteem.app",
+    "url_scheme": "https://esteem.app/@{username}/{permlink}"
   },
   "fundition": {
     "name": "Fundition",
