@@ -133,5 +133,10 @@
   },
   "guc-desktop": {
     "name": "GUC"
+  },
+  "dpoll": {
+    "name": "Dpoll",
+    "homepage": "https://dpoll.xyz",
+    "url_scheme": "https://dpoll.xyz/detail/@{username}/{permlink}"
   }
 }
