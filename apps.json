@@ -112,6 +112,11 @@
     "name": "Tasteem",
     "homepage": "https://tasteem.io"
   },
+  "travelfeed": {
+    "name": "TravelFeed",
+    "homepage": "https://travelfeed.io",
+    "url_scheme": "https://travelfeed.io/@{username}/{permlink}"
+  },
   "hede": {
     "name": "Hede.io",
     "homepage": "https://hede.io",
