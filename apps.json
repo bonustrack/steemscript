@@ -125,7 +125,8 @@
   },
   "actifit": {
     "name": "Actifit",
-    "homepage": "https://actifit.io"
+    "homepage": "https://actifit.io",
+    "url_scheme": "https://actifit.io/@{username}/{permlink}"
   },
   "ulogs": {
     "name": "Ulogs",
